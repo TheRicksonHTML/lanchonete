@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #fd9317;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img{
+    width: 20%;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    //border: solid;
+    width: 60vw;
+   
+}
